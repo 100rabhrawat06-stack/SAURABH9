@@ -19,7 +19,7 @@
     <hr>
     <h2>world news</h2>
     <p>today's top headline: global leaders meet to discuss climate change initiatives</p>
-    <img src="data:image/png;base64
+    <img src="
     <h2>sport update</h2>
     <p>highlight of cricket match</p>
     <iframe width="500" height="315" src="https://www.youtube.com/channel/UCZr2DUknsXPhZF2di7TzVEQ" frameborder="0" allowfullscreen></iframe>
@@ -35,7 +35,7 @@
         <source src="sample-audio.mp3" type="audio/mp3">
         </audio>
         <h3>contact us</h3>
-        <p>EMAIL: 100rabhrawat06@gmail.com</p>
+        <p>EMAIL: 100rbhrawat@gmail.com</p>
         <p>&copy: 2025 global news </p>
         <hr>
         <p>name: Saurabh Rawat</p>
